@@ -19,7 +19,7 @@ window.onload = function() {
 
         // Membuat elemen gambar watermark
         var watermark = document.createElement("img");
-        watermark.src = "https://github.com/username/repository-name/raw/main/watermark.png";  // Ganti dengan URL watermark Anda
+        watermark.src = "https://w7.pngwing.com/pngs/914/821/png-transparent-orange-and-black-tiger-illustration-tiger-lion-safari-child-cute-watermark-mammal-animals-cat-like-mammal-thumbnail.png";  // Ganti dengan URL watermark Anda
         watermark.style.position = "absolute";  // Posisi watermark di atas gambar
         watermark.style.top = "50%";  // Memposisikan watermark di tengah gambar secara vertikal
         watermark.style.left = "50%";  // Memposisikan watermark di tengah gambar secara horizontal
